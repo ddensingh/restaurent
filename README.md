@@ -1,54 +1,71 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
 
-  <br />
-  <br />
+  [![Hacker Rank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/dens22019_it)
+  [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ddensingh/restaurent)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mKftdOvCXL/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ddensingh/)
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+  <br /><br />
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  <h2 align="center">🍽️ Grilli - Restaurant Website 🍽️</h2>
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  **Grilli** is a modern, fully responsive restaurant website, designed for a seamless experience on all devices. Built with **HTML**, **CSS**, and **JavaScript**, it provides a sleek, user-friendly interface for showcasing restaurants with style.
+
+  <a href="https://restaurent-alpha.vercel.app/"><strong>🚀 Live Demo Here ➥</strong></a>
 
 </div>
 
-<br />
+---
 
-### Demo Screeshots
+## 📸 Demo Screenshots
 
 ![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+ <img src="1.png" alt="Dashboard" width="900" />
+  <img src="2.png" alt="Dashboard" width="900" />
+   <img src="3.png" alt="Dashboard" width="900" />
+    <img src="4.png" alt="Dashboard" width="900" />
+     <img src="5.png" alt="Dashboard" width="900" />
+      <img src="6.png" alt="Dashboard" width="900" />
+       <img src="7.png" alt="Dashboard" width="900" />
+        <img src="8.png" alt="Dashboard" width="900" />
+         <img src="9.png" alt="Dashboard" width="900" />
+          <img src="10.png" alt="Dashboard" width="900" />
+          
+---
 
-### Prerequisites
+## 🛠️ Features
 
-Before you begin, ensure you have met the following requirements:
+- **Responsive Design:** Optimized for all screen sizes including desktop, tablet, and mobile.
+- **Elegant UI:** Smooth transitions, interactive elements, and intuitive layout.
+- **User-Friendly:** Easy to navigate, with clear calls to action for customers.
+- **Fast & Efficient:** Built with performance and speed in mind.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+---
 
-### Run Locally
+## 🚀 Technologies Used
 
-To run **Grilli** locally, run this command on your git bash:
+- **HTML5:** Semantic markup for better SEO and accessibility.
+- **CSS3:** Modern styling techniques including Flexbox and Grid.
+- **JavaScript:** Dynamic interactions and responsive functionalities.
 
-Linux and macOS:
+---
+
+## ⚙️ Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- **Git:** Version control system ([Download Git](https://git-scm.com/downloads))
+- **Code Editor:** VS Code or any editor of your choice ([Download VS Code](https://code.visualstudio.com/Download))
+
+---
+
+## 💻 Run Locally
+
+Follow these instructions to clone and run **Grilli** on your local machine.
+
+### For Linux and macOS:
 
 ```bash
 sudo git clone https://github.com/codewithsadee/grilli.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+cd grilli
+open index.html
