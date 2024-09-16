@@ -19,18 +19,88 @@
 
 ## 📸 Demo Screenshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
- <img src="1.png" alt="Dashboard" width="900" />
-  <img src="2.png" alt="Dashboard" width="900" />
-   <img src="3.png" alt="Dashboard" width="900" />
-    <img src="4.png" alt="Dashboard" width="900" />
-     <img src="5.png" alt="Dashboard" width="900" />
-      <img src="6.png" alt="Dashboard" width="900" />
-       <img src="7.png" alt="Dashboard" width="900" />
-        <img src="8.png" alt="Dashboard" width="900" />
-         <img src="9.png" alt="Dashboard" width="900" />
-          <img src="10.png" alt="Dashboard" width="900" />
-          
+Take a look at **Grilli** in action! Below are screenshots demonstrating its user-friendly design, responsiveness, and functionality across multiple pages and devices.
+
+---
+
+### 🖥️ Home Page
+
+A sleek and modern landing page designed with a clear call-to-action and intuitive navigation.
+
+<img src="1.png" alt="Home Page" width="900" />
+
+---
+
+### 🍽️ Menu Page
+
+Beautifully presented menu items with smooth transitions, optimized for mobile and desktop.
+
+<img src="2.png" alt="Menu Page" width="900" />
+
+---
+
+### 🛒 Cart Page
+
+A streamlined cart interface with an easy-to-use system for adding and removing items.
+
+<img src="3.png" alt="Cart Page" width="900" />
+
+---
+
+### 📄 About Us Page
+
+Learn more about the restaurant's story with a visually engaging "About Us" page.
+
+<img src="4.png" alt="About Us Page" width="900" />
+
+---
+
+### 📞 Contact Page
+
+A clean and professional contact page to allow customers to easily get in touch.
+
+<img src="5.png" alt="Contact Page" width="900" />
+
+---
+
+### 📲 Responsive Design
+
+**Grilli** adapts to all device sizes, providing a smooth experience whether you’re browsing on a phone, tablet, or desktop.
+
+<img src="6.png" alt="Responsive Design" width="900" />
+
+---
+
+### 🏎️ Fast Loading Times
+
+Optimized code ensures fast page load times for an optimal user experience.
+
+<img src="7.png" alt="Fast Loading" width="900" />
+
+---
+
+### 🛠️ Interactive Elements
+
+Enjoy interactive elements such as hover effects, smooth animations, and dynamic transitions.
+
+<img src="8.png" alt="Interactive Elements" width="900" />
+
+---
+
+### 🔍 High-Resolution Images
+
+All images and visual content are in high-resolution, providing a crisp and professional look.
+
+<img src="9.png" alt="High-Resolution Images" width="900" />
+
+---
+
+### 💡 Smooth User Experience
+
+**Grilli** is designed with simplicity and smoothness in mind, allowing for an enjoyable browsing experience.
+
+<img src="10.png" alt="Smooth User Experience" width="900" />
+
 ---
 
 ## 🛠️ Features
